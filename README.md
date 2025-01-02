@@ -67,3 +67,18 @@ Throughout this report, we explore the progression from basic machine learning a
 ![training_comparison](https://github.com/user-attachments/assets/d596d3f4-c10e-4833-b0a0-e2e604d53867)
 
 ![final_comparison](https://github.com/user-attachments/assets/b66d27cc-eb8b-4aad-b0db-4e91df9c0c90)
+
+#### Real Only
+
+![confusion_matrices](https://github.com/user-attachments/assets/4b4bfc7c-535e-4938-a52d-1dfecfa4e413)
+
+![training_history](https://github.com/user-attachments/assets/af4a80cb-471d-40ac-8571-642141801364)
+
+#### Combined
+
+![confusion_matrices](https://github.com/user-attachments/assets/73a1de56-1b0d-438e-8370-00a1c51158e1)
+
+![training_history](https://github.com/user-attachments/assets/edb4f313-5edc-465a-99ad-d0a143ae7e9a)
+
+
+
